@@ -1,7 +1,7 @@
 # JAVAAPROJECT
 LANGKAH - LANGKAH PENGGUNAAN:
 
-1.Import terlebih dahulu database yang sudah ada di dalam file DATABASE (Mysql)
+1.Buka XAMPP dan Import terlebih dahulu database yang sudah ada di dalam file DATABASE dengan nama db_barang
 
 2.Buka aplikasi net beans
 
